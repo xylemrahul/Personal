@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="unspecified" >
+        <source path="C:\Users\Raj\Assignment_Workspace\Assign_Management\build\intermediates\exploded-aar\Assignment_Workspace\LoadMoreListView\unspecified\assets" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="C:\Users\Raj\Assignment_Workspace\Assign_Management\assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\Raj\Assignment_Workspace\Assign_Management\build-types\debug\assets" />
+    </dataSet>
+
+</merger>

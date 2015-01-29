@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- When selected, use grey -->
+   
+    <!-- When not selected, use white-->
+    <item android:drawable="@drawable/icon_done" />
+</selector><!-- From: file:/C:/Users/Raj/Assignment_Workspace/Assign_Management/res/drawable/icon_done.xml -->

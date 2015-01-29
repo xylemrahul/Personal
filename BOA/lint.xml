@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="InflateParams">
+        <ignore path="src/com/techila/boa/Bank_Details.java" />
+        <ignore path="src/com/techila/boa/adapter/CustomListAdapter.java" />
+        <ignore path="src/com/techila/boa/adapter/NavDrawerListAdapter.java" />
+        <ignore path="src/com/techila/boa/adapter/UserAdapter.java" />
+    </issue>
+    <issue id="NewApi">
+        <ignore path="src/com/techila/boa/ReportsActivity.java" />
+        <ignore path="src/com/techila/boa/User_selection.java" />
+        <ignore path="src/com/techila/boa/main/User_selection.java" />
+    </issue>
+</lint>

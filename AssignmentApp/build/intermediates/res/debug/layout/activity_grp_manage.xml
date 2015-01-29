@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/groups_bg"
+    android:focusableInTouchMode="true"
+    android:orientation="vertical" >
+
+    <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal"
+		android:weightSum="2"        
+        >
+        <View 
+            android:layout_width="0dip"
+            android:layout_height="0dip"
+            android:layout_weight="1.6"
+            />
+        <Button
+            android:id="@+id/addBtn"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.3"
+            android:background="@drawable/btn_add" />
+        <View 
+            android:layout_width="0dip"
+            android:layout_height="0dip"
+            android:layout_weight="0.1"
+            />
+    </LinearLayout>
+    
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal"
+        android:weightSum="2" >
+
+       <EditText
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="15dp"
+            android:layout_weight="1.9"
+            android:id="@+id/search"
+            android:background="@drawable/edittext_color"
+            android:paddingLeft="15dp"
+			android:windowSoftInputMode="stateHidden"	
+            android:hint="Search" />
+
+         <View 
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.1"
+            />
+       
+    </LinearLayout>
+
+    <com.costum.android.widget.LoadMoreListView
+        android:id="@+id/android:list"
+        android:layout_marginTop="10dp"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+         />
+
+</LinearLayout><!-- From: file:/C:/Users/Raj/Assignment_Workspace/Assign_Management/res/layout/activity_grp_manage.xml -->

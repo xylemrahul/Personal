@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="60dp"
+        android:background="#403D3D"
+        android:id="@+id/top_layout"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_margin="10dp"
+            android:layout_weight=".8"
+            android:contentDescription="@string/todo"
+            android:src="@drawable/icon" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+			android:text="@string/companies"
+			android:textColor="@color/white"
+			android:textSize="20sp"
+			android:gravity="center"
+            android:layout_weight="2.5" />
+
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_margin="10dp"
+            android:layout_weight=".8"
+            android:contentDescription="@string/todo"
+            android:src="@drawable/company_sel" />
+        
+        <ImageView
+            android:layout_width="0dp"
+            android:id="@+id/logout"
+            android:layout_height="match_parent"
+            android:layout_margin="10dp"
+            android:layout_weight=".6"
+            android:contentDescription="@string/todo"
+            android:src="@drawable/logout_btn" />
+        
+    </LinearLayout>
+    <Button
+        android:id="@+id/btn"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_margin="10dp"
+        android:text="ADD COMPANY" />
+
+    <ListView
+        android:id="@+id/companyList"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:divider="@color/list_divider"
+        android:dividerHeight="5.0sp"
+        android:drawSelectorOnTop="false"
+        android:listSelector="@drawable/list_row_selector" />
+
+</LinearLayout>

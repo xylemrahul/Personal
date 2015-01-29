@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BOA</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_bank_details">BankDetails</string>
+    <string name="act_no">Account Number</string>
+    <string name="act_holder">Beneficiary Name</string>
+    <string name="act_type">Account Type</string>
+    <string name="bank_name">Bank Name</string>
+    <string name="bank_add">Branch Address</string>
+    <string name="ifsc">IFSC Code</string>
+    <string name="initial_blnc">Initial Balance</string>
+    <string name="create_new_user">create new user</string>
+    <string name="create_new_company">create new company</string>
+    <string name="fname">Firstname</string>
+    <string name="lname">Lastname</string>
+    <string name="age">Age</string>
+    <string name="sex">Sex</string>
+    <string name="e_mail">Email Address</string>
+    <string name="postal_address">Postal Address</string>
+    <string name="usertype">Usertype</string>
+    <string name="submit">SUBMIT</string>
+    <string name="account">Account</string>
+    <string name="users">USERS</string>
+    <string name="payments">Payments</string>
+    <string name="withdrawals">Withdrawals</string>
+    <string name="todo">TODO</string>
+    <string name="check_available_balance">Check available balance</string>
+    <string name="cancel">"Cancel"</string>
+    <string name="add_bank_account">Add Bank Account</string>
+    <string name="add_users">ADD USERS</string>
+    <string name="amount">Account balance</string>
+    <string name="check_balance">Check Balance</string>
+    <string name="select_account">Select Account</string>
+    <string name="server_registering">Trying (attempt %1$d/%2$d) to register device on Demo Server.</string>
+    <string name="server_registered">Successfully added device!</string>
+    <string name="server_register_error">Could not register device on Demo Server after %1$d attempts.</string>
+    <string name="gcm_error">From GCM: error (%1$s).</string>
+    <string name="gcm_recoverable_error">From GCM: recoverable error (%1$s).</string>
+    <string name="gcm_unregistered">From GCM: device successfully unregistered!</string>
+    <string name="server_unregistered">From Demo Server: successfully removed device!</string>
+    <string name="server_unregister_error">Could not unregister device on Demo Server (%1$s).</string>
+    <string name="pay">Pay Now</string>
+    <string name="payment_type">Payment type</string>
+    <string name="select_destination_bank">Select destination bank</string>
+    <string name="transfer_amount">Transfer amount</string>
+    <string name="company_name">Company Name</string>
+    <string name="tan_number">TAN Number</string>
+    <string name="pan_number">PAN Number</string>
+    <string name="company_address">Company Address</string>
+    <string name="withdrawal_amount">Withdrawal Amount</string>
+    <string name="withdraw">Withdraw</string>
+    <string name="cheque_number">Cheque number</string>
+    <string name="payee">Payee</string>
+    <string name="issue_date">Issue date</string>
+    <string name="enter_cheque_details">enter cheque details</string>
+    <string name="payment_reason">Payment Reason</string>
+    <string name="strSelectedDate"> %s</string>
+
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+    <string name="description">Description</string>
+
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/pay_sel</item>
+        <item>@drawable/wid_sel</item>
+    </array>
+
+    <string-array name="nav_drawer_items">
+        <item>Payments</item>
+        <item>Withdrawals</item>
+        
+    </string-array>
+        <string name="username">USERNAME</string>
+        <string name="password">PASSWORD</string>
+        <string name="remember_me">Remember Me</string>
+        <string name="fgt_pwd">Forgot password ?</string>
+        <string name="accounts">ACCOUNTS</string>
+        <string name="companies">COMPANIES</string>
+        <string name="source_bank_">"Source Bank :  "</string>
+        <string name="destination_bank_">"Destination Bank : "</string>
+
+</resources>

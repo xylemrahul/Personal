@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/C:/Users/Raj/Assignment_Workspace/Assign_Management/res/values/strings.xml -->
+    <eat-comment />
+
+    <string-array name="Assgn_array">
+        <item>One Time Job</item>
+        <item>Short Term Job</item>
+        <item>Long Term Job</item>
+        <item>Specific Date Job</item>
+    </string-array>
+    <string-array name="Reccurence_Array">
+        <item>Daily</item>
+        <item>Weekly</item>
+        <item>Monthly</item>
+        <item>Quaterly</item>
+        <item>Yearly</item>
+    </string-array>
+    <string-array name="Type_Array">
+        <item>Admin</item>
+        <item>Assignee</item>
+    </string-array>
+
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_people</item>
+        <item>@drawable/ic_photos</item>
+        <item>@drawable/ic_communities</item>
+        <item>@drawable/ic_pages</item>
+        <item>@drawable/ic_whats_hot</item>
+    </array>
+
+    <string-array name="nav_drawer_items">
+        <item>Performance Report</item>
+        <item>TAT Report</item>
+        <item>Monthly Report</item>
+    </string-array>
+    <!-- From: file:/C:/Users/Raj/Assignment_Workspace/Assign_Management/build/intermediates/exploded-aar/Assignment_Workspace/LoadMoreListView/unspecified/res/values/values.xml -->
+    <eat-comment />
+
+    <color name="black">#000000</color>
+    <!-- From: file:/C:/Users/Raj/Assignment_Workspace/Assign_Management/res/values/color.xml -->
+    <eat-comment />
+
+    <color name="counter_text_bg">#626262</color>
+    <color name="counter_text_color">#c5c4c4</color>
+    <!-- From: file:/C:/Users/Raj/Assignment_Workspace/Assign_Management/build/intermediates/exploded-aar/Assignment_Workspace/LoadMoreListView/unspecified/res/values/values.xml -->
+    <eat-comment />
+
+    <color name="dark_slate_gray">#2F4F4F</color>
+    <color name="gray_1">#C0C0C0</color>
+    <color name="gray_2">#AFAFAF</color>
+    <!-- From: file:/C:/Users/Raj/Assignment_Workspace/Assign_Management/res/values/color.xml -->
+    <eat-comment />
+
+    <color name="list_background">#303030</color>
+    <color name="list_background_pressed">#36566e</color>
+    <color name="list_divider">#272727</color>
+    <color name="list_item_title">#fff</color>
+    <!-- From: file:/C:/Users/Raj/Assignment_Workspace/Assign_Management/res/values/dimens.xml -->
+    <eat-comment />
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/C:/Users/Raj/Assignment_Workspace/Assign_Management/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="Ass_manage">ASSIGNMENT MANAGEMENT</string>
+    <string name="Assgn_Type_Prompt">Choose an Assignment Type</string>
+    <string name="Conf_Passwd">Confirm Password</string>
+    <string name="DigitsName">abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ </string>
+    <string name="EmailId">Email</string>
+    <string name="Name">Contact Name</string>
+    <string name="Password">Password</string>
+    <string name="PhoneNumber">Contact Number</string>
+    <string name="Reccurence_prompt">Choose the Interval</string>
+    <string name="Report">REPORTS</string>
+    <string name="Self_manage">SELF MANAGEMENT</string>
+    <string name="Type_prompt">Select the type</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Assignment</string>
+    <string name="desc_list_item_icon">Item Icon</string>
+    <string name="gcm_error">From GCM: error (%1$s).</string>
+    <string name="gcm_recoverable_error">From GCM: recoverable error (%1$s).</string>
+    <string name="gcm_unregistered">From GCM: device successfully unregistered!</string>
+    <string name="grp_manage">GROUP MANAGEMENT</string>
+    <!-- From: file:/C:/Users/Raj/Assignment_Workspace/Assign_Management/build/intermediates/exploded-aar/Assignment_Workspace/LoadMoreListView/unspecified/res/values/values.xml -->
+    <eat-comment />
+
+    <string name="hello">Hello World, LoadMoreListView!</string>
+    <!-- From: file:/C:/Users/Raj/Assignment_Workspace/Assign_Management/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="hello_world">Hello world!</string>
+    <string name="mem_manage">MEMBER MANAGEMENT</string>
+    <!-- From: file:/C:/Users/Raj/Assignment_Workspace/Assign_Management/build/intermediates/exploded-aar/Assignment_Workspace/LoadMoreListView/unspecified/res/values/values.xml -->
+    <eat-comment />
+
+    <string name="pull_to_refresh_pull_label">Pull to refresh...</string>
+    <string name="pull_to_refresh_refreshing_label">Loading...</string>
+    <string name="pull_to_refresh_release_label">Release to refresh...</string>
+    <string name="pull_to_refresh_tap_label">Tap to refresh...</string>
+    <!-- From: file:/C:/Users/Raj/Assignment_Workspace/Assign_Management/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="server_register_error">Could not register device on Demo Server after %1$d attempts.</string>
+    <string name="server_registered">Successfully added device!</string>
+    <string name="server_registering">Trying (attempt %1$d/%2$d) to register device on Demo Server.</string>
+    <string name="server_unregister_error">Could not unregister device on Demo Server (%1$s).</string>
+    <string name="server_unregistered">From Demo Server: successfully removed device!</string>
+    <string name="strSelectedDate"> %s</string>
+    <string name="title_activity_grp__manage">Grp_Manage</string>
+    <string name="title_activity_job">JobActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_member__manage">Member_Manage</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <!-- From: file:/C:/Users/Raj/Assignment_Workspace/Assign_Management/res/values/styles.xml -->
+    <eat-comment />
+
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+</resources>

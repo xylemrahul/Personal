@@ -1,0 +1,1002 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="unspecified" >
+        <source path="C:\Users\Raj\Assignment_Workspace\Assign_Management\build\intermediates\exploded-aar\Assignment_Workspace\LoadMoreListView\unspecified\res" >
+            <file
+                name="costum_progress_bar"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\build\intermediates\exploded-aar\Assignment_Workspace\LoadMoreListView\unspecified\res\drawable\costum_progress_bar.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\build\intermediates\exploded-aar\Assignment_Workspace\LoadMoreListView\unspecified\res\drawable-hdpi-v4\ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_pulltorefresh_arrow"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\build\intermediates\exploded-aar\Assignment_Workspace\LoadMoreListView\unspecified\res\drawable-hdpi-v4\ic_pulltorefresh_arrow.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\build\intermediates\exploded-aar\Assignment_Workspace\LoadMoreListView\unspecified\res\drawable-ldpi-v4\ic_launcher.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="ic_pulltorefresh_arrow"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\build\intermediates\exploded-aar\Assignment_Workspace\LoadMoreListView\unspecified\res\drawable-ldpi-v4\ic_pulltorefresh_arrow.png"
+                qualifiers="ldpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\build\intermediates\exploded-aar\Assignment_Workspace\LoadMoreListView\unspecified\res\drawable-mdpi-v4\ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_pulltorefresh_arrow"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\build\intermediates\exploded-aar\Assignment_Workspace\LoadMoreListView\unspecified\res\drawable-mdpi-v4\ic_pulltorefresh_arrow.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="load_more_footer"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\build\intermediates\exploded-aar\Assignment_Workspace\LoadMoreListView\unspecified\res\layout\load_more_footer.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="pull_to_refresh_header"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\build\intermediates\exploded-aar\Assignment_Workspace\LoadMoreListView\unspecified\res\layout\pull_to_refresh_header.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\build\intermediates\exploded-aar\Assignment_Workspace\LoadMoreListView\unspecified\res\values\values.xml"
+                qualifiers="" >
+                <color name="dark_slate_gray" >#2F4F4F
+                </color>
+                <color name="gray_1" >#C0C0C0
+                </color>
+                <color name="gray_2" >#AFAFAF
+                </color>
+
+                <string name="pull_to_refresh_pull_label" >Pull to refresh...
+                </string>
+
+                <color name="black" >#000000
+                </color>
+
+                <string name="pull_to_refresh_release_label" >Release to refresh...
+                </string>
+                <string name="app_name" >Loadmore
+                </string>
+                <string name="pull_to_refresh_refreshing_label" >Loading...
+                </string>
+                <string name="pull_to_refresh_tap_label" >Tap to refresh...
+                </string>
+                <string name="hello" >Hello World, LoadMoreListView!
+                </string>
+            </file>
+        </source>
+    </dataSet>
+    <dataSet config="main" >
+        <source path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res" >
+            <file
+                name="flip_animation"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\anim\flip_animation.xml"
+                qualifiers=""
+                type="anim" />
+            <file
+                name="blue_line"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable\blue_line.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="counter_bg"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable\counter_bg.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="edittext_color"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable\edittext_color.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="icon"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable\icon.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="icon_cancel"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable\icon_cancel.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="icon_deferred"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable\icon_deferred.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="icon_done"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable\icon_done.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="list_item_bg_normal"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable\list_item_bg_normal.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="list_item_bg_pressed"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable\list_item_bg_pressed.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="list_selector"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable\list_selector.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="login_gradient"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable\login_gradient.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="logout_btn"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable\logout_btn.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="title_bg"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable\title_bg.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="add_assignee"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-hdpi\add_assignee.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="admin_bg"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-hdpi\admin_bg.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="assignee_bg"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-hdpi\assignee_bg.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="assignments_bg"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-hdpi\assignments_bg.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="bglogin"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-hdpi\bglogin.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="btn_add"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-hdpi\btn_add.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="btn_login"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-hdpi\btn_login.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="btn_menu"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-hdpi\btn_menu.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="fail"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-hdpi\fail.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="groups_bg"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-hdpi\groups_bg.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="icon"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-hdpi\icon.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_cancel"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-hdpi\icon_cancel.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_deferred"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-hdpi\icon_deferred.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_done"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-hdpi\icon_done.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_communities"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-hdpi\ic_communities.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_drawer"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-hdpi\ic_drawer.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_home"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-hdpi\ic_home.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_pages"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-hdpi\ic_pages.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_people"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-hdpi\ic_people.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_photos"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-hdpi\ic_photos.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_whats_hot"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-hdpi\ic_whats_hot.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="logout_btn"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-hdpi\logout_btn.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="members_bg"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-hdpi\members_bg.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="signin_bg"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-hdpi\signin_bg.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="splash_screen"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-hdpi\splash_screen.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="success"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-hdpi\success.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="view_details"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-hdpi\view_details.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="add_assignee"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-mdpi\add_assignee.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="admin_bg"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-mdpi\admin_bg.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="assignee_bg"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-mdpi\assignee_bg.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="assignments_bg"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-mdpi\assignments_bg.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="bglogin"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-mdpi\bglogin.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="btn_add"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-mdpi\btn_add.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="btn_login"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-mdpi\btn_login.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="btn_menu"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-mdpi\btn_menu.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="groups_bg"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-mdpi\groups_bg.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="icon"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-mdpi\icon.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_cancel"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-mdpi\icon_cancel.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_deferred"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-mdpi\icon_deferred.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_done"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-mdpi\icon_done.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_communities"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-mdpi\ic_communities.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_drawer"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-mdpi\ic_drawer.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_home"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-mdpi\ic_home.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_pages"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-mdpi\ic_pages.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_people"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-mdpi\ic_people.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_photos"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-mdpi\ic_photos.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_whats_hot"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-mdpi\ic_whats_hot.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="logout_btn"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-mdpi\logout_btn.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="members_bg"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-mdpi\members_bg.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="signin_bg"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-mdpi\signin_bg.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="splash_screen"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-mdpi\splash_screen.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="view_details"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-mdpi\view_details.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="add_assignee"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-xhdpi\add_assignee.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="admin_bg"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-xhdpi\admin_bg.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="assignee_bg"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-xhdpi\assignee_bg.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="assignments_bg"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-xhdpi\assignments_bg.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="bglogin"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-xhdpi\bglogin.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="btn_add"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-xhdpi\btn_add.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="btn_login"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-xhdpi\btn_login.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="btn_menu"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-xhdpi\btn_menu.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="groups_bg"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-xhdpi\groups_bg.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="icon"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-xhdpi\icon.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_cancel"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-xhdpi\icon_cancel.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_deferred"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-xhdpi\icon_deferred.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="icon_done"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-xhdpi\icon_done.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_communities"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-xhdpi\ic_communities.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_drawer"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-xhdpi\ic_drawer.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_home"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-xhdpi\ic_home.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_pages"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-xhdpi\ic_pages.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_people"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-xhdpi\ic_people.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_photos"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-xhdpi\ic_photos.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_whats_hot"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-xhdpi\ic_whats_hot.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="logout_btn"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-xhdpi\logout_btn.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="members_bg"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-xhdpi\members_bg.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="signin_bg"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-xhdpi\signin_bg.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="splash_screen"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-xhdpi\splash_screen.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="view_details"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-xhdpi\view_details.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="icon"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-xxhdpi\icon.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_communities"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-xxhdpi\ic_communities.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_home"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-xxhdpi\ic_home.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-xxhdpi\ic_launcher.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_pages"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-xxhdpi\ic_pages.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_people"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-xxhdpi\ic_people.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_photos"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-xxhdpi\ic_photos.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_whats_hot"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-xxhdpi\ic_whats_hot.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="logout_btn"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\drawable-xxhdpi\logout_btn.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="activity_assign_assignment"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\layout\activity_assign_assignment.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_assign_manage"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\layout\activity_assign_manage.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_custom_admin_assign"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\layout\activity_custom_admin_assign.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_custom_list_manage"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\layout\activity_custom_list_manage.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_grp_manage"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\layout\activity_grp_manage.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_job"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\layout\activity_job.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_login"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\layout\activity_login.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_member_manage"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\layout\activity_member_manage.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_report"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\layout\activity_report.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_selection"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\layout\activity_selection.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_splash"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\layout\activity_splash.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_tab_list_view"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\layout\activity_tab_list_view.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="assignment_fragment"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\layout\assignment_fragment.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="dialog_add_grp"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\layout\dialog_add_grp.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="dialog_add_member"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\layout\dialog_add_member.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="dialog_assignment_details"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\layout\dialog_assignment_details.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="dialog_feedback"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\layout\dialog_feedback.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="dialog_forgot_password"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\layout\dialog_forgot_password.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="dialog_grpmember"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\layout\dialog_grpmember.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="dialog_grp_details"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\layout\dialog_grp_details.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="dialog_mem_details"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\layout\dialog_mem_details.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="dialog_set_status"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\layout\dialog_set_status.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="drawer_list_item"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\layout\drawer_list_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_cancel"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\layout\fragment_cancel.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_deferred"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\layout\fragment_deferred.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_done"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\layout\fragment_done.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_perf_report"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\layout\fragment_perf_report.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="spn_txt"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\layout\spn_txt.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="tiles"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\layout\tiles.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="deferred"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\menu\deferred.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="done"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\menu\done.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="grp__manage"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\menu\grp__manage.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="job"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\menu\job.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="main"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\menu\main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="member__manage"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\menu\member__manage.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="pending"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\menu\pending.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="register"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\menu\register.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="splash"
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\menu\splash.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\values\color.xml"
+                qualifiers="" >
+                <color name="list_background_pressed" >#36566e
+                </color>
+                <color name="counter_text_bg" >#626262
+                </color>
+                <color name="list_item_title" >#fff
+                </color>
+                <color name="list_background" >#303030
+                </color>
+                <color name="list_divider" >#272727
+                </color>
+                <color name="counter_text_color" >#c5c4c4
+                </color>
+            </file>
+            <file
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\values\dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\values\strings.xml"
+                qualifiers="" >
+                <string name="title_activity_grp__manage" >Grp_Manage
+                </string>
+                <string name="action_settings" >Settings
+                </string>
+
+                <string-array name="Assgn_array" >
+                    <item>
+One Time Job
+                    </item>
+                    <item>
+Short Term Job
+                    </item>
+                    <item>
+Long Term Job
+                    </item>
+                    <item>
+Specific Date Job
+                    </item>
+                </string-array>
+
+                <string name="title_activity_main" >MainActivity
+                </string>
+                <string name="gcm_error" >From GCM: error (%1$s).
+                </string>
+                <string name="Type_prompt" >Select the type
+                </string>
+
+                <array name="nav_drawer_icons" >
+                    <item>
+@drawable/ic_home
+                    </item>
+                    <item>
+@drawable/ic_people
+                    </item>
+                    <item>
+@drawable/ic_photos
+                    </item>
+                    <item>
+@drawable/ic_communities
+                    </item>
+                    <item>
+@drawable/ic_pages
+                    </item>
+                    <item>
+@drawable/ic_whats_hot
+                    </item>
+                </array>
+
+                <string name="title_activity_job" >JobActivity
+                </string>
+                <string name="mem_manage" >MEMBER MANAGEMENT
+                </string>
+                <string name="strSelectedDate" > %s
+                </string>
+                <string name="PhoneNumber" >Contact Number
+                </string>
+                <string name="title_activity_member__manage" >Member_Manage
+                </string>
+                <string name="gcm_unregistered" >From GCM: device successfully unregistered!
+                </string>
+                <string name="server_unregister_error" >Could not unregister device on Demo Server (%1$s).
+                </string>
+                <string name="title_activity_register" >RegisterActivity
+                </string>
+                <string name="Password" >Password
+                </string>
+                <string name="server_registering" >Trying (attempt %1$d/%2$d) to register device on Demo Server.
+                </string>
+                <string name="Reccurence_prompt" >Choose the Interval
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+
+                <string-array name="Reccurence_Array" >
+                    <item>
+Daily
+                    </item>
+                    <item>
+Weekly
+                    </item>
+                    <item>
+Monthly
+                    </item>
+                    <item>
+Quaterly
+                    </item>
+                    <item>
+Yearly
+                    </item>
+                </string-array>
+
+                <string name="Name" >Contact Name
+                </string>
+                <string name="Ass_manage" >ASSIGNMENT MANAGEMENT
+                </string>
+                <string name="Report" >REPORTS
+                </string>
+                <string name="gcm_recoverable_error" >From GCM: recoverable error (%1$s).
+                </string>
+
+                <string-array name="Type_Array" >
+                    <item>
+Admin
+                    </item>
+                    <item>
+Assignee
+                    </item>
+                </string-array>
+
+                <string name="grp_manage" >GROUP MANAGEMENT
+                </string>
+                <string name="server_registered" >Successfully added device!
+                </string>
+                <string name="server_unregistered" >From Demo Server: successfully removed device!
+                </string>
+                <string name="EmailId" >Email
+                </string>
+                <string name="Self_manage" >SELF MANAGEMENT
+                </string>
+
+                <string-array name="nav_drawer_items" >
+                    <item>
+Performance Report
+                    </item>
+                    <item>
+TAT Report
+                    </item>
+                    <item>
+Monthly Report
+                    </item>
+                </string-array>
+
+                <string name="DigitsName" >abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ 
+                </string>
+                <string name="server_register_error" >Could not register device on Demo Server after %1$d attempts.
+                </string>
+                <string name="app_name" >Assignment
+                </string>
+                <string name="desc_list_item_icon" >Item Icon
+                </string>
+                <string name="Assgn_Type_Prompt" >Choose an Assignment Type
+                </string>
+                <string name="Conf_Passwd" >Confirm Password
+                </string>
+            </file>
+            <file
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\values\styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+            </file>
+            <file
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\values-sw720dp-land\dimens.xml"
+                qualifiers="sw720dp-land-v13" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+            <file
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\values-v11\styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="C:\Users\Raj\Assignment_Workspace\Assign_Management\res\values-v14\styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+        </source>
+        <source path="C:\Users\Raj\Assignment_Workspace\Assign_Management\build\generated\res\rs\debug" />
+        <source path="C:\Users\Raj\Assignment_Workspace\Assign_Management\build\generated\res\generated\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\Raj\Assignment_Workspace\Assign_Management\build-types\debug\res" />
+    </dataSet>
+
+</merger>

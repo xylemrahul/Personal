@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle" >
+
+    <gradient
+        android:endColor="#2a353e"
+        android:startColor="#516272" />
+
+    <stroke
+        android:width="1px"
+        android:color="#072133" />
+
+</shape><!-- From: file:/C:/Users/Raj/Assignment_Workspace/Assign_Management/res/drawable/title_bg.xml -->

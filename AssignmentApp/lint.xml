@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="DefaultLocale">
+        <ignore path="src/com/techila/assign_management/Assign_Manage.java" />
+        <ignore path="src/com/techila/assign_management/Grp_Manage.java" />
+        <ignore path="src/com/techila/assign_management/Mem_Manage.java" />
+        <ignore path="src/com/techila/july/assign_management/Assign_Details.java" />
+        <ignore path="src/com/techila/july/assign_management/Grp_Manage.java" />
+        <ignore path="src/com/techila/july/assign_management/Mem_Manage.java" />
+        <ignore path="src/com/techila/july/assign_management/adapter/CustomAdapterAdminAssignListView.java" />
+    </issue>
+    <issue id="HandlerLeak">
+        <ignore path="src/com/techila/assign_management/Assign_Details.java" />
+        <ignore path="src/com/techila/july/assign_management/Assign_Details.java" />
+        <ignore path="src/com/techila/july/assign_management/Mem_Manage.java" />
+        <ignore path="src/com/techila/july/assign_management/NewAssignment.java" />
+    </issue>
+    <issue id="NewApi">
+        <ignore path="src/com/techila/july/assign_management/ReportsActivity.java" />
+    </issue>
+    <issue id="ValidFragment">
+        <ignore path="src/com/techila/july/assign_management/PerformanceFragment.java" />
+    </issue>
+</lint>
